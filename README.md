@@ -1,0 +1,1 @@
+Este programa inverte a ordem dos caracteres de uma palavra fornecida pelo usuário. Após exibir o resultado, ele pergunta se o usuário deseja tentar novamente com outra palavra. É uma aplicação simples e prática para explorar manipulação de strings, interação com o usuário e lógica de repetição.
